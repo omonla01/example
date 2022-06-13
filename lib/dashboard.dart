@@ -49,7 +49,7 @@ class Dashboard extends StatelessWidget {
                 ),
                 ),
                 SizedBox(
-                  child: Divider(color: Colors.red),
+                  child: Divider(color: Colors.blue),
                 )
               ],
             ),
